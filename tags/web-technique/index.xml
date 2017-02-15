@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Technique on Lithium Theme</title>
+    <link>/tags/web-technique/index.xml</link>
+    <description>Recent content in Web Technique on Lithium Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/web-technique/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>webpage</title>
+      <link>/2017/02/15/webpage/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/15/webpage/</guid>
+      <description>
+
+&lt;h1 id=&#34;today-is-sunday&#34;&gt;today is Sunday&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
